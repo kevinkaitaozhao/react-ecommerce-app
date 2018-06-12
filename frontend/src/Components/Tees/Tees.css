@@ -1,0 +1,11 @@
+.item-name {
+  margin-top: 0;
+  margin-bottom: 0.2rem;
+  font-size: 0.6rem;
+  font-weight: bold;
+}
+
+.item-price {
+  margin-top: 0;
+  font-size: 0.9rem;
+}

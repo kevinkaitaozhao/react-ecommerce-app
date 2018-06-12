@@ -1,0 +1,21 @@
+h1 {
+  font-size: 1.4rem;
+  margin-top: 0.5rem;
+}
+
+.cart-border {
+  width: 100%;
+  border-bottom: solid black 1px;
+}
+
+.cart-item {
+  font-size: 0.8rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: bold;
+}
+
+.cart-price {
+  font-size: 0.8rem;
+  margin-top: 0.3rem;
+}
